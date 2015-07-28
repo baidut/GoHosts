@@ -62,6 +62,15 @@ void GoHosts::updateHosts(){
         QMessageBox::critical(this, "Error", "获取hosts失败,请点击重试");
         return;
     }
+
+    // 502 Bad Gateway
+    QString pattern("502 Bad Gateway");
+    QRegExp rx(pattern);
+    if (get.indexOf(rx) > -1){
+        QMessageBox::critical(this, "Error", "服务器忙,请点击重试");
+        return;
+    }
+
     // 删除已经存在的hosts文件
     QFile hosts_old(PATH_LOCAL_HOSTS);
     if ( hosts_old.exists()) {

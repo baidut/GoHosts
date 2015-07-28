@@ -4,6 +4,8 @@ set_time_limit(0); // 设置允许超时
 $path = file_get_contents(PATH); // 提取文件目录
 preg_match('/20[0-9]{6}.txt/', $path, $matches); // 找最新的hosts文件
 $hosts = file_get_contents( PATH.$matches[0]);
+
+echo '<title>'.$matches[0].'</title>';
 echo '<pre>'. $hosts .'</pre>'; // 提取hosts文件
 
 $content = $hosts;

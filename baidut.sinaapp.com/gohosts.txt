@@ -4,3 +4,5 @@
 <a href='https://github.com/baidut/gohosts/' target="_blank">项目网址[Github]</a>
 <a href='https://github.com/baidut/GoHosts/issues' target="_blank">反馈建议</a><br>
 本程序仅可以用于学术研究，禁止传播
+【更新日志】
+1.0.1修复502 Bad Gateway问题
