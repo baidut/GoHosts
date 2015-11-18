@@ -1,6 +1,8 @@
 # GoHosts - Google Hosts
 
 	通过修改hosts文件进行科学上网，相当简单！
+	[最新可用 hosts](https://raw.githubusercontent.com/baidut/GoHosts/master/hosts.txt)
+	Qt一键式程序已无法使用，停止维护！！！
 
 * 本hosts仅限用于学术科研等正规用途，禁止传播
 * hosts源虽然在更新，但用的人多了，也就不好用了，因此禁止传播
