@@ -44,7 +44,7 @@ void GoHosts::getSource(){
         connect(ui->textBrowser, SIGNAL(anchorClicked(const QUrl&)),this, SLOT(on_anchor_clicked(const QUrl&)));
 
         // 解析
-        QString pattern("http.*txt");
+        QString pattern("http*.txt");
         QRegExp rx(pattern);
         if (get.indexOf(rx) > -1){
             url_hosts = rx.cap(0);

@@ -1,34 +1,34 @@
 # GoHosts - Google Hosts
 
-	Í¨¹ıĞŞ¸ÄhostsÎÄ¼ş½øĞĞ¿ÆÑ§ÉÏÍø£¬Ïàµ±¼òµ¥£¡
-	[×îĞÂ¿ÉÓÃ hosts](https://raw.githubusercontent.com/baidut/GoHosts/master/hosts.txt)
-	QtÒ»¼üÊ½³ÌĞòÒÑÎŞ·¨Ê¹ÓÃ£¬Í£Ö¹Î¬»¤£¡£¡£¡
+[æœ€æ–°å¯ç”¨ hosts](https://raw.githubusercontent.com/baidut/GoHosts/master/hosts.txt)
+    
+    é€šè¿‡ä¿®æ”¹hostsæ–‡ä»¶è¿›è¡Œç§‘å­¦ä¸Šç½‘ï¼Œç›¸å½“ç®€å•ï¼
 
-* ±¾hosts½öÏŞÓÃÓÚÑ§Êõ¿ÆÑĞµÈÕı¹æÓÃÍ¾£¬½ûÖ¹´«²¥
-* hostsÔ´ËäÈ»ÔÚ¸üĞÂ£¬µ«ÓÃµÄÈË¶àÁË£¬Ò²¾Í²»ºÃÓÃÁË£¬Òò´Ë½ûÖ¹´«²¥
-* ÍøÕ¾²¿ÊğÔÚSAEÏÂ£¬Á÷Á¿ĞèÒª¸¶·Ñ£¬ËùÒÔ»¹ÊÇ½ûÖ¹´«²¥
+* æœ¬hostsä»…é™ç”¨äºå­¦æœ¯ç§‘ç ”ç­‰æ­£è§„ç”¨é€”ï¼Œç¦æ­¢ä¼ æ’­
+* hostsæºè™½ç„¶åœ¨æ›´æ–°ï¼Œä½†ç”¨çš„äººå¤šäº†ï¼Œä¹Ÿå°±ä¸å¥½ç”¨äº†ï¼Œå› æ­¤ç¦æ­¢ä¼ æ’­
+* ç½‘ç«™éƒ¨ç½²åœ¨SAEä¸‹ï¼Œæµé‡éœ€è¦ä»˜è´¹ï¼Œæ‰€ä»¥è¿˜æ˜¯ç¦æ­¢ä¼ æ’­
 
-## QtÖÆ×÷µÄÒ»¼üÊ½³ÌĞò
+## Qtåˆ¶ä½œçš„ä¸€é”®å¼ç¨‹åº
 
-ÏÂÔØ https://github.com/baidut/GoHosts/releases
+ä¸‹è½½ https://github.com/baidut/GoHosts/releases
 
 ![image](./ui.jpg)
 
-## ²»ÏëÏÂÔØ£¿·ÃÎÊÔÚÏßhosts
+## ä¸æƒ³ä¸‹è½½ï¼Ÿè®¿é—®åœ¨çº¿hosts
 
-1. ¸´ÖÆhttp://baidut.sinaapp.com/hosts.php µÄÄÚÈİ
-1. Ìæ»»ÏµÍ³µÄhostsÎÄ¼ş
+1. å¤åˆ¶http://baidut.sinaapp.com/hosts.php çš„å†…å®¹
+1. æ›¿æ¢ç³»ç»Ÿçš„hostsæ–‡ä»¶
 
-hostsÎÄ¼şÎ»ÖÃ
-- WidonwsÏµÍ³ `ÏµÍ³ÅÌ:\windows\system32\drivers\etc\hosts`
-- Linux/MACÏµÍ³ `/etc/hosts`
-- AndroidÏµÍ³ Í¬Linux£¬ĞèÒªROOT
+hostsæ–‡ä»¶ä½ç½®
+- Widonwsç³»ç»Ÿ `ç³»ç»Ÿç›˜:\windows\system32\drivers\etc\hosts`
+- Linux/MACç³»ç»Ÿ `/etc/hosts`
+- Androidç³»ç»Ÿ åŒLinuxï¼Œéœ€è¦ROOT
 
-## ¡¾Windows¡¿ÕÒÏµÍ³hostsÎÄ¼şÂé·³£¿
+## ã€Windowsã€‘æ‰¾ç³»ç»Ÿhostsæ–‡ä»¶éº»çƒ¦ï¼Ÿ
 
-1. ÈÎÒâÎ»ÖÃĞÂ½¨¼ÇÊÂ±¾£¬½«ÏÂÃæµÄÄÚÈİ¸´ÖÆµ½¼ÇÊÂ±¾ÖĞ
-1. °Ñ¼ÇÊÂ±¾ºó×ºÃû¸ÄÎªbat
-1. ÒÔºóÒÔ¹ÜÀíÔ±ÕË»§´ò¿ª¸ÃÎÄ¼ş¼´¿Éµ¯³öÏµÍ³hostsÎÄ¼ş
+1. ä»»æ„ä½ç½®æ–°å»ºè®°äº‹æœ¬ï¼Œå°†ä¸‹é¢çš„å†…å®¹å¤åˆ¶åˆ°è®°äº‹æœ¬ä¸­
+1. æŠŠè®°äº‹æœ¬åç¼€åæ”¹ä¸ºbat
+1. ä»¥åä»¥ç®¡ç†å‘˜è´¦æˆ·æ‰“å¼€è¯¥æ–‡ä»¶å³å¯å¼¹å‡ºç³»ç»Ÿhostsæ–‡ä»¶
 
 ```bat
 notepad "%SystemRoot%\system32\drivers\etc\hosts"
@@ -36,12 +36,14 @@ ipconfig /flushdns
 exit
 ```
 
-## ¡¾Windows¡¿ÓÒ¼ü¹ÜÀíÔ±Éí·İÔËĞĞ±È½ÏÂé·³£¿
+## ã€Windowsã€‘å³é”®ç®¡ç†å‘˜èº«ä»½è¿è¡Œæ¯”è¾ƒéº»çƒ¦ï¼Ÿ
 
-1. ´´½¨¾ßÓĞ¹ÜÀíÔ±È¨ÏŞµÄ¿ì½İ·½Ê½£¬¾ßÌå·½·¨×ÔĞĞ°Ù¶È
-1. ÒÔºóÃ¿´ÎË«»÷¸Ã¿ì½İ·½Ê½¼´¿É´ò¿ª
+1. åˆ›å»ºå…·æœ‰ç®¡ç†å‘˜æƒé™çš„å¿«æ·æ–¹å¼ï¼Œå…·ä½“æ–¹æ³•è‡ªè¡Œç™¾åº¦
+1. ä»¥åæ¯æ¬¡åŒå‡»è¯¥å¿«æ·æ–¹å¼å³å¯æ‰“å¼€
 
-## ×¢
+## æ³¨
 
-- hostsÎÄ¼ş×ÊÔ´À´×Ô£º[¹ÈÓÑ²¿Âä¸ñ](http://igge.gq/)
-- Qt³ÌĞò²Î¿¼[/racaljk/hosts](https://github.com/racaljk/hosts)±àĞ´
+- hostsèµ„æºæ¥æº
+	- è°·å‹éƒ¨è½æ ¼ http://igge.gq/
+	- https://github.com/racaljk/hosts
+- Qtç¨‹åºå‚è€ƒ[/racaljk/hosts](https://github.com/racaljk/hosts)ç¼–å†™

@@ -1,8 +1,9 @@
 <h3>Gohosts</h3>
-ÒÔ¹ÜÀíÔ±·½Ê½´ò¿ª±¾³ÌÐò£¬µã»÷ÏÂÃæµÄ°´Å¥£¬µÈ´ý¼¸Ãë¼´¿É<hr>
-<a href='http://baidut-storage.stor.sinaapp.com/hosts.txt' target="_blank">·ÃÎÊÔÚÏßhosts</a>
-<a href='https://github.com/baidut/gohosts/' target="_blank">ÏîÄ¿ÍøÖ·[Github]</a>
-<a href='https://github.com/baidut/GoHosts/issues' target="_blank">·´À¡½¨Òé</a><br>
-±¾³ÌÐò½ö¿ÉÒÔÓÃÓÚÑ§ÊõÑÐ¾¿£¬½ûÖ¹´«²¥
-¡¾¸üÐÂÈÕÖ¾¡¿
-1.0.1ÐÞ¸´502 Bad GatewayÎÊÌâ
+ä»¥ç®¡ç†å‘˜æ–¹å¼æ‰“å¼€æœ¬ç¨‹åºï¼Œç‚¹å‡»ä¸‹é¢çš„æŒ‰é’®ï¼Œç­‰å¾…å‡ ç§’å³å¯<hr>
+<a href='https://raw.githubusercontent.com/baidut/GoHosts/master/hosts.txt' target="_blank">è®¿é—®åœ¨çº¿hosts</a>
+<a href='https://github.com/baidut/gohosts/' target="_blank">é¡¹ç›®ç½‘å€[Github]</a>
+<a href='https://github.com/baidut/GoHosts/issues' target="_blank">åé¦ˆå»ºè®®</a><br>
+æœ¬ç¨‹åºä»…å¯ä»¥ç”¨äºŽå­¦æœ¯ç ”ç©¶ï¼Œç¦æ­¢ä¼ æ’­
+ã€æ›´æ–°æ—¥å¿—ã€‘
+1.0.1 ä¿®å¤502 Bad Gatewayé—®é¢˜
+1.0.2 æ›´æ”¹hosts.txtæº
