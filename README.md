@@ -16,7 +16,7 @@
 
 ## 不想下载？访问在线hosts
 
-1. 复制http://baidut.sinaapp.com/hosts.php 的内容
+1. 访问[在线hosts](https://raw.githubusercontent.com/baidut/GoHosts/master/hosts.txt) 复制内容
 1. 替换系统的hosts文件
 
 hosts文件位置
