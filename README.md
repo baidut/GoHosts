@@ -1,6 +1,6 @@
 # GoHosts - Google Hosts
 
-[最新可用 hosts](https://raw.githubusercontent.com/baidut/GoHosts/master/hosts.txt)
+[最新可用 hosts](https://raw.githubusercontent.com/racaljk/hosts/master/hosts)
     
     通过修改hosts文件进行科学上网，相当简单！
 
